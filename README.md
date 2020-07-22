@@ -1,11 +1,11 @@
 <div align="center">
 	<body>
-    <img src="./imgs/header.svg">
+    <img src="https://github.com/arnabsen1729/arnabsen1729/blob/master/imgs/header.svg">
     </body>
 </div>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arnab-sen-b6950a194/" target="blank"><img align="center" src="./imgs/Linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/arnab-sen-b6950a194/" target="blank"><img align="center" src="https://github.com/arnabsen1729/arnabsen1729/blob/master/imgs/Linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
 </p>
 
 ## I'm a
