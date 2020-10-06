@@ -29,7 +29,7 @@ jobs:
           SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "False"
-          SHOW_TIMEZON: "False"
+          SHOW_TIMEZONE: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
           SHOW_OS: "False" 
