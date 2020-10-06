@@ -7,6 +7,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/arnab-sen-b6950a194/" target="blank"><img align="center" src="https://github.com/arnabsen1729/arnabsen1729/blob/master/imgs/Linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
 </p>
+<img src="https://img.shields.io/github/followers/arnabsen1729?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/arnabsen1729?style=for-the-badge">
+
 
 ## I'm a
  - **Full Stack Developer**
