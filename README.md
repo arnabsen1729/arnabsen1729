@@ -1,6 +1,6 @@
 <div align="center">
 	<body>
-    <img src="https://github.com/arnabsen1729/arnabsen1729/blob/master/imgs/header.svg">
+    <img src="./imgs/readme2.gif">
     </body>
 </div>
 

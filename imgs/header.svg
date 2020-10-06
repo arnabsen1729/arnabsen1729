@@ -21,7 +21,7 @@
         <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="3.4s" begin="0s" repeatCount="indefinite"/>
     </path>
     <text font-size="50" font-family="Roboto Mono" fill='#000'>
-        <textPath xlink:href="#path">Hello World! I'm Arnab :)
+        <textPath xlink:href="#path">I'm Rajdeep Ghosh :)
     </textPath>
     </text>
     </svg>
