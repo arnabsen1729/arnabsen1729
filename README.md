@@ -4,11 +4,12 @@
     </body>
 </div>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/arnab-sen-b6950a194/" target="blank"><img align="center" src="https://github.com/arnabsen1729/arnabsen1729/blob/master/imgs/Linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
-</p>
+
+<p align="center" style="display: inline">
 <img src="https://img.shields.io/github/followers/arnabsen1729?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/arnabsen1729?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Arnab-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnab-sen-b6950a194/)](https://www.linkedin.com/in/arnab-sen-b6950a194/">
+</p>
 
 
 ## I'm a
