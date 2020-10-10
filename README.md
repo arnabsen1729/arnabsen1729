@@ -45,7 +45,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabsen1729" alt="arnabsen1729" /> </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-288195%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -62,8 +62,8 @@
 
 ```text
 🔥 Editors: 
-VS Code                  12 hrs 20 mins      ██████████████████████░░░   89.76% 
-Sublime Text             1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.24%
+VS Code                  10 hrs 18 mins      ██████████████████████░░░   87.99% 
+Sublime Text             1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.01%
 
 ```
 
