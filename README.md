@@ -45,7 +45,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabsen1729" alt="arnabsen1729" /> </p>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -70,7 +70,7 @@ No Activity Tracked This Week
 
 ```text
 JavaScript               31 repos            ██████████░░░░░░░░░░░░░░░   42.47% 
-Python                   12 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
+Python                   13 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
 C++                      10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.7% 
 Vue                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.59% 
 C                        6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.22%
