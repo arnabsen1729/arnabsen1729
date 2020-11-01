@@ -1,8 +1,4 @@
-<div align="center">
-	<body>
-    <img src="./imgs/readme2.gif">
-    </body>
-</div>
+<h1 align="center">Hi, Arnab here 👋</h1>
 
 
 <p align="center" style="display: inline">
