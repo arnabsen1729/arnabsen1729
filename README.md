@@ -35,8 +35,10 @@
 <hr>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arnabsen1729&&show_icons=true&title_color=000000&icon_color=ccccccf&text_color=000000&bg_color=ffffff" width="75%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arnabsen1729&&show_icons=true&count_private=true"/>
 </p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=arnabsen1729&repo=Website-to-PDF)](https://github.com/arnabsen1729/Website-to-PDF)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabsen1729" alt="arnabsen1729" /> </p>
 
