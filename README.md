@@ -2,8 +2,9 @@
 
 
 <p align="center" style="display: inline">
+ <a href="https://arnabsen.netlify.app/"><img src="https://img.shields.io/badge/BLOGS-Netlify-lightgrey/?style=for-the-badge&color=fedcba"></a>
 <img src="https://img.shields.io/github/followers/arnabsen1729?style=for-the-badge">
-<img src="https://img.shields.io/github/stars/arnabsen1729?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/arnabsen1729?style=for-the-badge"> 
 <img src="https://img.shields.io/badge/-Arnab-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnab-sen-b6950a194/)](https://www.linkedin.com/in/arnab-sen-b6950a194/">
 </p>
 
@@ -35,7 +36,7 @@
 <hr>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arnabsen1729&&show_icons=true&title_color=000000&icon_color=ccccccf&text_color=000000&bg_color=ffffff" width="75%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=arnabsen1729&&show_icons=true&count_private=true"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabsen1729" alt="arnabsen1729" /> </p>
