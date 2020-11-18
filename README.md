@@ -39,6 +39,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=arnabsen1729&&show_icons=true&count_private=true"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabsen1729"/>
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabsen1729" alt="arnabsen1729" /> </p>
 
 <!--START_SECTION:waka-->
