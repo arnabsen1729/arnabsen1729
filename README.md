@@ -5,7 +5,7 @@
  <a href="https://arnabsen.netlify.app/"><img src="https://img.shields.io/badge/BLOGS-Netlify-lightgrey/?style=for-the-badge&color=fedcba"></a>
 <img src="https://img.shields.io/github/followers/arnabsen1729?style=for-the-badge">
 <img src="https://img.shields.io/github/stars/arnabsen1729?style=for-the-badge"> 
-<img src="https://img.shields.io/badge/-Arnab-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnab-sen-b6950a194/)](https://www.linkedin.com/in/arnab-sen-b6950a194/">
+<a href="https://www.linkedin.com/in/arnab-sen-b6950a194/"><img src="https://img.shields.io/badge/-Arnab-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnab-sen-b6950a194/)](https://www.linkedin.com/in/arnab-sen-b6950a194/"></a>
 </p>
 
 
