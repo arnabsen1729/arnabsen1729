@@ -9,11 +9,6 @@
 </p>
 
 
-## I'm a
- - **Full Stack Developer**
- - **Cybersecurity Enthusiast**
- - **Competitive Coder**
-
 ## I love to:
  - **Contribute to Open Source**
  - **Participate in CTFs**
