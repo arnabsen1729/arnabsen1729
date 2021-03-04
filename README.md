@@ -9,18 +9,18 @@
 </p>
 
 
-## I love to:
+<!-- ## I love to: 
  - **Contribute to Open Source**
  - **Participate in CTFs**
  - **Participate in Coding Contests**
  - **Learn about new technologies**
+-->
 
-
-## My profiles:
+<!-- ## My profiles:
  - <a href="https://codeforces.com/profile/arnab1729" target="blank">Codeforces</a>
  - <a href="https://www.codechef.com/users/arnab1729" target="blank">Codechef</a>
  - <a href="https://ctftime.org/team/89677" target="blank">CTFtime</a>
-
+-->
 <hr>
 
 - 👨‍🎓 Currently a Sophomore at **Dept. of Computer Science and Technology, IIEST, Shibpur**
