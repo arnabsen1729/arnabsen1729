@@ -29,6 +29,7 @@
 
 <hr>
 
-|<img src="https://github-readme-stats.vercel.app/api?username=arnabsen1729&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabsen1729"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=arnabsen1729&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabsen1729&theme=dark&hide_border=true"/>|
 |---|---|
+<img src="https://activity-graph.herokuapp.com/graph?username=arnabsen1729&theme=github" />
 
