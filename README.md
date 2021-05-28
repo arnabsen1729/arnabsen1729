@@ -24,7 +24,7 @@
 <hr>
 
 - 👨‍🎓 Currently a Sophomore at **Dept. of Computer Science and Technology, IIEST, Shibpur**
-- 💻 Prior experience with **NuxtJS, VueJS, JavaScript, Python, Flutter, C** and **C++**
+- 💻 Prior experience with **ReactJS, NuxtJS, VueJS, JavaScript, Python, Flutter, C** and **C++**
 - 📫 Feel free to contact me **arnabsen1729@gmail.com**
 
 <hr>
