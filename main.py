@@ -1,4 +1,24 @@
+#
+#  Generate a README which will have 5 latest blogs from arnabsen.rocks
+#
+import feedparser
 
+
+def getEntries(url, count):
+    d = feedparser.parse(url)
+    return [
+        {
+            'title': entry.title,
+            'link': entry.link,
+            'pubDate': ' '.join(entry.published.split(' ')[1:4])
+        }
+        for entry in d.entries[:count]
+    ]
+
+
+URL = "https://arnabsen.rocks/index.xml"
+
+DATA = '''
 <h1 align="center">Hi, Arnab here 👋</h1>
 
 <p align="center" style="display: inline">
@@ -20,20 +40,26 @@ Read my CV <a href="https://arnabsen.rocks/resume.pdf">here.</a>
 
 <hr>
 
-## My Latest Blogs
+'''
 
-This is a list of the latest blogs from [arnabsen.rocks](https://arnabsen.rocks).
-
-| Blog | Date |
-| --- | --- |
-| [Merkle Trees and it's role in decentralised web](https://arnabsen.rocks/posts/merkle_trees/) | 13 Jul 2021 |
-| [Hello World! in Rescript-React](https://arnabsen.rocks/posts/rescript-react-hello-world/) | 05 Mar 2021 |
-| [Modules and Static Libraries in C](https://arnabsen.rocks/posts/modules_libraries_c/) | 15 Feb 2021 |
-| [OISC - Programming Language with one instruction](https://arnabsen.rocks/posts/oisc/) | 08 Feb 2021 |
-| [Building HTTP server from scratch using Ruby](https://arnabsen.rocks/posts/building_server_from_scratch/) | 27 Jan 2021 |
-
+STATS = '''
 <hr>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=arnabsen1729&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabsen1729&theme=dark&hide_border=true"/>|
 |---|---|
 <img src="https://activity-graph.herokuapp.com/graph?username=arnabsen1729&theme=github" />
+'''
+
+if __name__ == "__main__":
+    with open("README.md", 'w') as f:
+        f.write(DATA)
+        f.write(
+            "## My Latest Blogs\n\n"
+            "This is a list of the latest blogs from [arnabsen.rocks](https://arnabsen.rocks).\n\n"
+        )
+        f.write("| Blog | Date |\n")
+        f.write("| --- | --- |\n")
+        for entry in getEntries(URL, 5):
+            f.write("| [{title}]({link}) | {pubDate} |\n".format(**entry))
+
+        f.write(STATS)
