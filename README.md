@@ -37,3 +37,5 @@ This is a list of the latest blogs from [arnabsen.rocks](https://arnabsen.rocks)
 |<img src="https://github-readme-stats.vercel.app/api?username=arnabsen1729&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabsen1729&theme=dark&hide_border=true"/>|
 |---|---|
 <img src="https://activity-graph.herokuapp.com/graph?username=arnabsen1729&theme=github" />
+
+<img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/arnabsen1729/arnabsen1729/Build%20README?style=for-the-badge" align="right">
