@@ -9,7 +9,7 @@
 </p>
 
 
-- 👨‍🎓 3rd Year UG at **Dept. of Computer Science and Technology, IIEST, Shibpur**
+- 👨‍🎓 Sophomore at **Dept. of Computer Science and Technology, IIEST, Shibpur**
 - 💻 Prior experience with **ReactJS, NuxtJS, VueJS, JavaScript, Python, Flutter, C** and **C++**
 - 📫 My social profiles **https://linktr.ee/arnabsen**
 
@@ -26,11 +26,11 @@ This is a list of the latest blogs from [arnabsen.rocks](https://arnabsen.rocks)
 
 | Blog | Date |
 | --- | --- |
+| [Digging IsStandard in Bitcoin Core](https://arnabsen.rocks/posts/digging-isstandard/) | 15 Aug 2021 |
+| [Overview of Script](https://arnabsen.rocks/posts/overview-of-script/) | 15 Aug 2021 |
 | [Merkle Trees and it's role in decentralised web](https://arnabsen.rocks/posts/merkle_trees/) | 13 Jul 2021 |
 | [Hello World! in Rescript-React](https://arnabsen.rocks/posts/rescript-react-hello-world/) | 05 Mar 2021 |
 | [Modules and Static Libraries in C](https://arnabsen.rocks/posts/modules_libraries_c/) | 15 Feb 2021 |
-| [OISC - Programming Language with one instruction](https://arnabsen.rocks/posts/oisc/) | 08 Feb 2021 |
-| [Building HTTP server from scratch using Ruby](https://arnabsen.rocks/posts/building_server_from_scratch/) | 27 Jan 2021 |
 
 <hr>
 
