@@ -29,7 +29,7 @@ DATA = '''
 </p>
 
 
-- 👨‍🎓 Sophomore at **Dept. of Computer Science and Technology, IIEST, Shibpur**
+- 👨‍🎓 3rd year UG at **Dept. of Computer Science and Technology, IIEST, Shibpur**
 - 💻 Prior experience with **ReactJS, NuxtJS, VueJS, JavaScript, Python, Flutter, C** and **C++**
 - 📫 My social profiles **https://linktr.ee/arnabsen**
 
