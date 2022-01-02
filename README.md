@@ -9,11 +9,12 @@
 </p>
 
 
-- 👨‍🎓 3rd year UG at **Dept. of Computer Science and Technology, IIEST, Shibpur**
-- 💻 Prior experience with **ReactJS, NuxtJS, VueJS, JavaScript, Python, Flutter, C** and **C++**
-- 📫 My social profiles **https://linktr.ee/arnabsen**
+- 👨‍🎓 3rd year UG at **Dept. of Computer Science and Technology, IIEST, Shibpur**.
+- 💻 Prior experience with **Golang, JavaScript, Python, Ruby** and **C++**.
+- 📫 My social profiles [**arnabsen.bio.link**](https://arnabsen.bio.link/).
 
-👨‍💻 I am a Software Developer with experience in Web Development, Automation, and Content Writing. For the past 2 years, I have worked around an immense variety of technologies and frameworks such as React, Vue in Frontend and Node, Flask, Rails in the Backend.
+👨‍💻 I am a Software Developer with experience in Web Development, Automation, and Content Writing. For the past 2 years, I have worked around an immense variety of technologies and frameworks such as React, Vue in Frontend and Node, Flask, Rails in the Backend. I have made contributions to opensource projects at [@coronasafe](https://github.com/coronasafe) and [@bitcoin-core](https://github.com/bitcoin).
+
 You can know more about me [here](https://arnabsen.rocks/about).
 
 Read my CV <a href="https://arnabsen.rocks/resume.pdf">here.</a>
