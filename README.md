@@ -15,23 +15,23 @@
 
 👨‍💻 I am a Software Developer with experience in Web Development, Automation, and Content Writing. For the past 2 years, I have worked around an immense variety of technologies and frameworks such as React, Vue in Frontend and Node, Flask, Rails in the Backend. I have made contributions to opensource projects at [@coronasafe](https://github.com/coronasafe) and [@bitcoin-core](https://github.com/bitcoin).
 
-You can know more about me [here](https://arnabsen.rocks/about).
+You can know more about me [here](https://arnabsen.netlify.app/about).
 
-Read my CV <a href="https://arnabsen.rocks/resume.pdf">here.</a>
+Read my CV <a href="https://arnabsen.netlify.app/resume.pdf">here.</a>
 
 <hr>
 
 ## My Latest Blogs
 
-This is a list of the latest blogs from [arnabsen.rocks](https://arnabsen.rocks).
+This is a list of the latest blogs from [arnabsen.rocks](https://arnabsen.netlify.app).
 
 | Blog | Date |
 | --- | --- |
-| [Digging IsStandard in Bitcoin Core](https://arnabsen.rocks/posts/digging-isstandard/) | 15 Aug 2021 |
-| [Overview of Script](https://arnabsen.rocks/posts/overview-of-script/) | 15 Aug 2021 |
-| [Merkle Trees and it's role in decentralised web](https://arnabsen.rocks/posts/merkle_trees/) | 13 Jul 2021 |
-| [Hello World! in Rescript-React](https://arnabsen.rocks/posts/rescript-react-hello-world/) | 05 Mar 2021 |
-| [Modules and Static Libraries in C](https://arnabsen.rocks/posts/modules_libraries_c/) | 15 Feb 2021 |
+| [Digging IsStandard in Bitcoin Core](https://arnabsen.netlify.app/posts/digging-isstandard/) | 15 Aug 2021 |
+| [Overview of Script](https://arnabsen.netlify.app/posts/overview-of-script/) | 15 Aug 2021 |
+| [Merkle Trees and it's role in decentralised web](https://arnabsen.netlify.app/posts/merkle_trees/) | 13 Jul 2021 |
+| [Hello World! in Rescript-React](https://arnabsen.netlify.app/posts/rescript-react-hello-world/) | 05 Mar 2021 |
+| [Modules and Static Libraries in C](https://arnabsen.netlify.app/posts/modules_libraries_c/) | 15 Feb 2021 |
 
 <hr>
 
