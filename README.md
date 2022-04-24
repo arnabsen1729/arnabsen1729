@@ -33,6 +33,14 @@ This is a list of the latest blogs from [arnabsen.rocks](https://arnabsen.netlif
 | [Hello World! in Rescript-React](https://arnabsen.netlify.app/posts/rescript-react-hello-world/) | 05 Mar 2021 |
 | [Modules and Static Libraries in C](https://arnabsen.netlify.app/posts/modules_libraries_c/) | 15 Feb 2021 |
 
+## My Contributions
+
+- https://github.com/kokoye2007/wifi-qr/pull/11
+- https://github.com/iluwatar/java-design-patterns/pull/1956
+- https://github.com/bitcoin/bitcoin/pull/23907
+- https://github.com/bitcoin/bitcoin/pull/22902
+- [chinchang/web-maker](https://github.com/chinchang/web-maker/pulls?q=is%3Apr+author%3Aarnabsen1729+)
+
 <hr>
 
 |<img src="https://github-readme-stats.vercel.app/api?username=arnabsen1729&show_icons=true&theme=radical&text_color=fff&title_color=F58B02&icon_color=F58B02"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnabsen1729&theme=dark&hide_border=true"/>|
