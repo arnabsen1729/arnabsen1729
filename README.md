@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/github/stars/arnabsen1729?style=for-the-badge">
 <br>
 <a href="https://www.linkedin.com/in/arnab-sen-b6950a194/"><img src="https://img.shields.io/badge/-Arnab-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnab-sen-b6950a194/)](https://www.linkedin.com/in/arnab-sen-b6950a194/"></a>
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArnabSen1729?color=blue&label=%40ArnabSen1729&logo=twitter&style=for-the-badge">
+<a href="https://twitter.com/ArnabSen1729"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArnabSen1729?color=blue&label=%40ArnabSen1729&logo=twitter&style=for-the-badge"></a>
 <a href="https://arnabsen.bio.link/"><img src="https://img.shields.io/badge/SOCIAL-arnabsen.bio.link-lightgrey/?style=for-the-badge&color=fedcba"></a>
 </p>
 
