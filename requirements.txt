@@ -1,2 +1,0 @@
-feedparser==6.0.8
-sgmllib3k==1.0.0
