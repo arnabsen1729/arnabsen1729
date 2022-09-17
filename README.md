@@ -12,26 +12,29 @@
 
 
 - 👨‍🎓 4th year UG at **Dept. of Computer Science and Technology, IIEST, Shibpur**.
+- My blogging website [arnabsen.dev](https://arnabsen.dev).
 - 📫 My social profiles at [arnabsen.bio.link](https://arnabsen.bio.link/).
 
 👨‍💻 I am a Software Developer with experience in Web Development, Automation, and Content Writing. For the past 4 years, I have worked around an immense variety of technologies and frameworks such as React, Vue in Frontend and Node, Flask, Rails in the Backend. I have made contributions to opensource projects at [@coronasafe](https://github.com/coronasafe) and [@bitcoin-core](https://github.com/bitcoin).
 
-<a href="https://drive.google.com/file/d/1ecEKDFfiyjKBDIABHhp2afkw7y3K2oKU/view?usp=sharing "><b>My Resume 🔗</b></a>
+<a href="https://arnabsen.dev/resume.pdf"><b>My Resume 🔗</b></a>
 
 <hr>
 
 ## My Latest Blogs
 
-| Blog | Date |
-| --- | --- |
-| [My University Experience](https://arnabsen.hashnode.dev/my-university-experience) | 6 Aug 2022 |
-| [Exploring the debugger GDB](https://arnabsen.hashnode.dev/exploring-the-debugger-gdb) | 31 Jan 2022 |
-| [My experience of Summer Of Bitcoin'21](https://arnabsen.hashnode.dev/my-experience-of-summer-of-bitcoin21) | 11 Jan 2022 |
-| [Digging IsStandard in Bitcoin Core](https://arnabsen.netlify.app/posts/digging-isstandard/) | 15 Aug 2021 |
-| [Overview of Script](https://arnabsen.netlify.app/posts/overview-of-script/) | 15 Aug 2021 |
-| [Merkle Trees and it's role in decentralised web](https://arnabsen.netlify.app/posts/merkle_trees/) | 13 Jul 2021 |
-| [Hello World! in Rescript-React](https://arnabsen.netlify.app/posts/rescript-react-hello-world/) | 05 Mar 2021 |
-| [Modules and Static Libraries in C](https://arnabsen.netlify.app/posts/modules_libraries_c/) | 15 Feb 2021 |
+- [How to check version in Node.js? Check Node version from command line](https://codedamn.com/news/nodejs/how-to-check-the-version)
+- [Node React Tutorial - How to connect React with backend Node.js?](https://codedamn.com/news/reactjs/how-to-connect-react-with-node-js)
+- [What is a .ts File? Typescript Beginner Tutorial](https://codedamn.com/news/typescript/what-is-a-ts-file)
+- [Git delete local branch - How to delete a local branch with git?](https://codedamn.com/news/programming/git-delete-local-branch)
+- [My University Experience](https://arnabsen.hashnode.dev/my-university-experience)
+- [Exploring the debugger GDB](https://arnabsen.hashnode.dev/exploring-the-debugger-gdb)
+- [My experience of Summer Of Bitcoin'21](https://arnabsen.hashnode.dev/my-experience-of-summer-of-bitcoin21)
+- [Digging IsStandard in Bitcoin Core](https://arnabsen.netlify.app/posts/digging-isstandard/)
+- [Overview of Script](https://arnabsen.netlify.app/posts/overview-of-script/)
+- [Merkle Trees and it's role in decentralised web](https://arnabsen.netlify.app/posts/merkle_trees/)
+- [Hello World! in Rescript-React](https://arnabsen.netlify.app/posts/rescript-react-hello-world/)
+- [Modules and Static Libraries in C](https://arnabsen.netlify.app/posts/modules_libraries_c/)
 
 <hr>
 
