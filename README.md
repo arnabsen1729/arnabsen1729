@@ -23,7 +23,6 @@
 
 ## My Latest Blogs
 
-- [How To Rename a Directory on Linux?](https://codedamn.com/news/linux/how-to-rename-a-directory-on-linux)
 - [Git delete local branch – How to delete a local branch with git?](https://codedamn.com/news/programming/git-delete-local-branch)
 - [How to check version in Node.js? Check Node version from command line](https://codedamn.com/news/nodejs/how-to-check-the-version)
 - [Node React Tutorial - How to connect React with backend Node.js?](https://codedamn.com/news/reactjs/how-to-connect-react-with-node-js)
