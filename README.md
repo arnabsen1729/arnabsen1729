@@ -23,6 +23,9 @@
 
 ## My Latest Blogs
 
+- [What is prototype in JavaScript? Prototypal inheritance explained](https://codedamn.com/news/javascript/what-is-prototype-in-javascript)
+- [How to debug Node.js in Visual Studio Code? Node.js debugging VS Code](https://codedamn.com/news/nodejs/how-to-debug-node-js)
+- [try catch JavaScript – How to handle errors](https://codedamn.com/news/javascript/try-catch-javascript)
 - [Git delete local branch – How to delete a local branch with git?](https://codedamn.com/news/programming/git-delete-local-branch)
 - [How to check version in Node.js? Check Node version from command line](https://codedamn.com/news/nodejs/how-to-check-the-version)
 - [Node React Tutorial - How to connect React with backend Node.js?](https://codedamn.com/news/reactjs/how-to-connect-react-with-node-js)
