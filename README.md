@@ -10,12 +10,10 @@
 <a href="https://arnabsen.bio.link/"><img src="https://img.shields.io/badge/SOCIAL-arnabsen.bio.link-lightgrey/?style=for-the-badge&color=fedcba"></a>
 </p>
 
-
+- 👨🏾‍💻 Software Developer
 - 👨‍🎓 4th year UG at **Dept. of Computer Science and Technology, IIEST, Shibpur**.
-- My blogging website [arnabsen.dev](https://arnabsen.dev).
-- 📫 My social profiles at [arnabsen.bio.link](https://arnabsen.bio.link/).
-
-👨‍💻 I am a Software Developer with experience in Web Development, Automation, and Content Writing. For the past 4 years, I have worked around an immense variety of technologies and frameworks such as React, Vue in Frontend and Node, Flask, Rails in the Backend. I have made contributions to opensource projects at [@coronasafe](https://github.com/coronasafe) and [@bitcoin-core](https://github.com/bitcoin).
+- 📝 My blogging website [arnabsen.dev](https://arnabsen.dev).
+- 📫 My social profiles at [arnabsen.dev/links](https://arnabsen.dev/links).
 
 <a href="https://arnabsen.dev/resume.pdf"><b>My Resume 🔗</b></a>
 
