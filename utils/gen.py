@@ -9,6 +9,7 @@ contributions = [
     'https://github.com/iluwatar/java-design-patterns/pull/1956',
     'https://github.com/bitcoin/bitcoin/pull/23907',
     'https://github.com/bitcoin/bitcoin/pull/22902',
+    'https://github.com/QasimWani/LeetHub/pull/18',
     'https://github.com/sindresorhus/emoj/pull/53',
     'https://github.com/chinchang/web-maker/pull/501',
     'https://github.com/chinchang/web-maker/pull/502',
