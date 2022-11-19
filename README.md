@@ -1,10 +1,21 @@
 
 <h2 align="center">Arnab Sen, 👨🏾‍💻 Software Developer</h2>
 
-<p align="center" style="display: inline">
+<div align="center">
+
+---
+
+**[<kbd> <br> My Blogs <br> </kbd>](#my-blogs)** 
+**[<kbd> <br> Work Experience <br> </kbd>](#work-experience)** 
+**[<kbd> <br> Open-Source Contributions <br> </kbd>](#open-source-contributions)** 
+**[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)**
+
+---
+
 <a href="https://www.linkedin.com/in/arnab-sen-b6950a194/"><img src="https://img.shields.io/badge/-Arnab-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arnab-sen-b6950a194/)](https://www.linkedin.com/in/arnab-sen-b6950a194/"></a>
-<a href="https://twitter.com/ArnabSen1729"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArnabSen1729?color=blue&label=%40ArnabSen1729&logo=twitter&style=for-the-badge"></a>
-</p>
+<a href="https://twitter.com/intent/follow?screen_name=ArnabSen1729"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArnabSen1729?color=blue&label=%40ArnabSen1729&logo=twitter&style=for-the-badge"></a>
+
+</div>
 
 - 👨‍🎓 4th year UG at **Dept. of Computer Science and Technology, IIEST, Shibpur**.
 - 📝 I blog at [arnabsen.dev](https://arnabsen.dev).
@@ -67,3 +78,5 @@ To learn in more detail about my work experience, visit [arnabsen.dev/experience
 | [CodeIIEST](https://www.linkedin.com/company/codeiiest-iiest) | Secretary General | Jun 2021 - Oct 2022  |
 | [GDSC IIEST](https://www.linkedin.com/company/gdsc-iiest) | Co-Lead | Aug 2021 - Jun 2022  |
 | [GDSC IIEST](https://www.linkedin.com/company/gdsc-iiest) | Google Cloud Facilitator | Aug 2020 - Jun 2021  |
+
+</div>
