@@ -26,6 +26,14 @@ To know more about me, visit [arnabsen.dev/about](https://arnabsen.dev/about).
 
 ## My Blogs
 
+- [My University Experience](https://arnabsen.hashnode.dev/my-university-experience)
+- [Exploring the debugger GDB](https://arnabsen.hashnode.dev/exploring-the-debugger-gdb)
+- [My experience of Summer Of Bitcoin'21](https://arnabsen.hashnode.dev/my-experience-of-summer-of-bitcoin21)
+- [Digging IsStandard in Bitcoin Core](https://arnabsen.dev/posts/digging-isstandard/)
+- [Overview of Script](https://arnabsen.dev/posts/overview-of-script/)
+- [Merkle Trees and it's role in decentralised web](https://arnabsen.dev/posts/merkle_trees/)
+- [Hello World! in Rescript-React](https://arnabsen.dev/posts/rescript-react-hello-world/)
+- [Modules and Static Libraries in C](https://arnabsen.dev/posts/modules_libraries_c/)
 - [What is prototype in JavaScript? Prototypal inheritance explained](https://codedamn.com/news/javascript/what-is-prototype-in-javascript)
 - [How to debug Node.js in Visual Studio Code? Node.js debugging VS Code](https://codedamn.com/news/nodejs/how-to-debug-node-js)
 - [try catch JavaScript – How to handle errors](https://codedamn.com/news/javascript/try-catch-javascript)
@@ -34,14 +42,6 @@ To know more about me, visit [arnabsen.dev/about](https://arnabsen.dev/about).
 - [Node React Tutorial - How to connect React with backend Node.js?](https://codedamn.com/news/reactjs/how-to-connect-react-with-node-js)
 - [What is a .ts File? Typescript Beginner Tutorial](https://codedamn.com/news/typescript/what-is-a-ts-file)
 - [Git delete local branch - How to delete a local branch with git?](https://codedamn.com/news/programming/git-delete-local-branch)
-- [My University Experience](https://arnabsen.hashnode.dev/my-university-experience)
-- [Exploring the debugger GDB](https://arnabsen.hashnode.dev/exploring-the-debugger-gdb)
-- [My experience of Summer Of Bitcoin'21](https://arnabsen.hashnode.dev/my-experience-of-summer-of-bitcoin21)
-- [Digging IsStandard in Bitcoin Core](https://arnabsen.netlify.app/posts/digging-isstandard/)
-- [Overview of Script](https://arnabsen.netlify.app/posts/overview-of-script/)
-- [Merkle Trees and it's role in decentralised web](https://arnabsen.netlify.app/posts/merkle_trees/)
-- [Hello World! in Rescript-React](https://arnabsen.netlify.app/posts/rescript-react-hello-world/)
-- [Modules and Static Libraries in C](https://arnabsen.netlify.app/posts/modules_libraries_c/)
 
 ## Work Experience
 
