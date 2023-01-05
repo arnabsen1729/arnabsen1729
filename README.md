@@ -47,8 +47,8 @@ To know more about me, visit [arnabsen.dev/about](https://arnabsen.dev/about).
 
 | 🏢 Company | 💼 Role | ⏰ Duration |
 | --- | --- | --- |
-| [Cypherock](www.cypherock.com) | SDE Intern | Oct 2022 - Present |
-| [Google](www.google.com) | SWE Intern | May 2022 - June 2022 |
+| [Cypherock](https://www.cypherock.com) | SDE Intern | Oct 2022 - Present |
+| [Google](https://www.google.com) | SWE Intern | May 2022 - June 2022 |
 | [Summer Of Bitcoin](https://summerofbitcoin.org/) | Mentee & Open Source Contributor | July 2021 - September 2021 |
 | [Coronasafe](https://life.coronasafe.network/) | Full Stack Developer | Feb 2021 - Jun 2021 |
 | [Hollyface](https://hollyface.com/) | Full Stack Developer | August 2020 - October 2020 |
