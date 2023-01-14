@@ -78,4 +78,11 @@ To learn in more detail about my work experience, visit [arnabsen.dev/experience
 | [CodeIIEST](https://www.linkedin.com/company/codeiiest-iiest) | Secretary General | Jun 2021 - Oct 2022  |
 | [GDSC IIEST](https://www.linkedin.com/company/gdsc-iiest) | Co-Lead | Aug 2021 - Jun 2022  |
 
+## My Podcast
+
+<p align="left">
+<a href="https://youtu.be/0EB-np28BZU" title="How to convert Internship to PPO"><img src="https://img.youtube.com/vi/0EB-np28BZU/maxresdefault.jpg" alt="How to convert Internship to PPO" width="250px" align="left" /></a>
+<a href="https://youtu.be/0EB-np28BZU" title="How to convert Internship to PPO"><strong>How to convert Internship to PPO</strong></a>
+<br/> In this podcast, we discuss about the technical and non-technical skills that immensely helped us during our internship. The discussion we had is very generic and applies to any SDE Intern or Fresher irrespective of which company they are working at...</p> <br/> <br/>
+
 </div>
