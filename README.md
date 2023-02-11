@@ -1,5 +1,4 @@
-
-<h2 align="center">Arnab Sen, 👨🏾‍💻 Software Developer</h2>
+![Arnab Sen, 👨🏾‍💻 Software Developer](https://user-images.githubusercontent.com/51032928/218271653-64daae1c-3688-4d24-8a66-59971379fd05.png)
 
 <div align="center">
 
@@ -11,8 +10,6 @@
 **[<kbd> <br> Volunteering <br> </kbd>](#volunteering-experience)**
 
 ---
-
-<a href="https://twitter.com/intent/follow?screen_name=ArnabSen1729"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ArnabSen1729?color=blue&label=%40ArnabSen1729&logo=twitter&style=for-the-badge"></a>
 
 </div>
 
