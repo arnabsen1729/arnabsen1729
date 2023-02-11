@@ -48,7 +48,7 @@ To know more about me, visit [arnabsen.dev/about](https://arnabsen.dev/about).
 | [Summer Of Bitcoin](https://summerofbitcoin.org/) | Mentee & Open Source Contributor | July 2021 - September 2021 |
 | [Coronasafe](https://life.coronasafe.network/) | Full Stack Developer | Feb 2021 - Jun 2021 |
 | [Hollyface](https://hollyface.com/) | Full Stack Developer | August 2020 - October 2020 |
-| [Banbreach](https://banbreach.com/) | Software Itern | April 2020 - August 2020 |
+| [Banbreach](https://banbreach.com/) | Software Intern | April 2020 - August 2020 |
 
 To learn in more detail about my work experience, visit [arnabsen.dev/experiences](https://arnabsen.dev/experiences).
 
