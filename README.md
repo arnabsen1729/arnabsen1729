@@ -77,8 +77,29 @@ To learn in more detail about my work experience, visit [arnabsen.dev/experience
 ## My Podcast
 
 <p align="left">
-<a href="https://youtu.be/0EB-np28BZU" title="How to convert Internship to PPO"><img src="https://img.youtube.com/vi/0EB-np28BZU/maxresdefault.jpg" alt="How to convert Internship to PPO" width="250px" align="left" /></a>
-<a href="https://youtu.be/0EB-np28BZU" title="How to convert Internship to PPO"><strong>How to convert Internship to PPO</strong></a>
-<br/> In this podcast, we discuss about the technical and non-technical skills that immensely helped us during our internship. The discussion we had is very generic and applies to any SDE Intern or Fresher irrespective of which company they are working at...</p> <br/> <br/>
+  <a href="https://youtu.be/0EB-np28BZU" title="How to convert Internship to PPO">
+   <img src="https://img.youtube.com/vi/0EB-np28BZU/maxresdefault.jpg" alt="How to convert Internship to PPO" width="250px" align="left" />
+  </a>
+  <a href="https://youtu.be/0EB-np28BZU" title="How to convert Internship to PPO">
+    <strong>How to convert Internship to PPO</strong>
+  </a>
+  <br/>
+  In this podcast, we discuss about the technical and non-technical skills that immensely helped us during our internship. The discussion we had is very generic and applies to any SDE Intern or Fresher irrespective of which company they are working at...
+</p> 
+
+<br/><br/>
+
+<p align="left">
+  <a href="https://youtu.be/_nnpHfuiPzs" title="Exploring the Future of Bitcoin with a Summer of Bitcoin Fellow">
+     <img src="https://img.youtube.com/vi/_nnpHfuiPzs/maxresdefault.jpg" alt="Exploring the Future of Bitcoin with a Summer of Bitcoin Fellow" width="250px" align="left" />
+  </a>
+  <a href="https://youtu.be/_nnpHfuiPzs" title="Exploring the Future of Bitcoin with a Summer of Bitcoin Fellow">
+    <strong>Exploring the Future of Bitcoin with a Summer of Bitcoin Fellow</strong>
+  </a>
+  <br/> 
+  In this podcast, we discuss about the Summer of Bitcoin application process, how to prepare yourself for this opensource opportunity, my orange-pill moment. We further discuss about the resources that will be really helpful for beginners to get started with. Finally, we had a conversation about the future of Bitcoin and it's applications...
+</p> 
+
+<br/><br/>
 
 </div>
