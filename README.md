@@ -74,7 +74,7 @@ To learn in more detail about my work experience, visit [arnabsen.dev/experience
 | [CodeIIEST](https://www.linkedin.com/company/codeiiest-iiest) | Secretary General | Jun 2021 - Oct 2022  |
 | [GDSC IIEST](https://www.linkedin.com/company/gdsc-iiest) | Co-Lead | Aug 2021 - Jun 2022  |
 
-## My Podcast
+## Podcasts
 
 <p align="left">
   <a href="https://youtu.be/0EB-np28BZU" title="How to convert Internship to PPO">
