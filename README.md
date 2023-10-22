@@ -1,10 +1,9 @@
-![Arnab Sen, 👨🏾‍💻 Software Developer](https://user-images.githubusercontent.com/51032928/218271653-64daae1c-3688-4d24-8a66-59971379fd05.png)
+Arnab Sen, 👨🏾‍💻 Software Developer
 
 - 💻 SWE at Google
 - 👨‍🎓 B.Tech Graduate (**Dept. of Computer Science and Technology, IIEST, Shibpur**).
 - 📝 I blog at [arnabsen.dev](https://arnabsen.dev).
-- 📫 Find me at [arnabsen.dev/links](https://arnabsen.dev/links).
-- 📜 [My Resume](https://arnabsen.dev/resume.pdf).
+- 📜 [My Resume](https://resume.arnabsen.dev).
 
 To know more about me, visit [arnabsen.dev/about](https://arnabsen.dev/about).
 
@@ -52,6 +51,7 @@ To learn in more detail about my work experience, visit [arnabsen.dev/experience
 </p> 
 <br/><br/>  
 </div>
+<br/><br/>  
 
 ## Podcasts
 
