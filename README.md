@@ -24,6 +24,8 @@ To know more about me, visit [arnabsen.dev/about](https://arnabsen.dev/about).
 ## My Blogs
 
 <!-- HASHNODE_BLOG:START -->
+- [Row, Row, Raft Your Nodes: A Guide to Consensus in Distributed Systems](https://arnabsen.dev//raft-algorithm)
+- [resume](https://arnabsen.dev//resume)
 <!-- HASHNODE_BLOG:END -->
 
 
