@@ -24,8 +24,19 @@ To know more about me, visit [arnabsen.dev/about](https://arnabsen.dev/about).
 ## My Blogs
 
 <!-- HASHNODE_BLOG:START -->
-- [Row, Row, Raft Your Nodes: A Guide to Consensus in Distributed Systems](https://arnabsen.dev//raft-algorithm)
-- [resume](https://arnabsen.dev//resume)
+<p align="left">
+<a href="https://arnabsen.dev//raft-algorithm" title="Row, Row, Raft Your Nodes: A Guide to Consensus in Distributed Systems"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697996382544/3c32ce45-c344-46c2-9933-16bd309e00f5.jpeg" alt="Row, Row, Raft Your Nodes: A Guide to Consensus in Distributed Systems" width="250px" align="left" /></a>
+<a href="https://arnabsen.dev//raft-algorithm" title="Row, Row, Raft Your Nodes: A Guide to Consensus in Distributed Systems"><strong>Row, Row, Raft Your Nodes: A Guide to Consensus in Distributed Systems</strong></a>
+<div><strong>22 Oct 2023</strong> | <strong>Updated: 22 Oct 2023</strong></div>
+<br/> Introduction
+I have been recently diving into the world of Distributed systems and I came across a rather interesting paper: "In Search of an Understandable Consensus Algorithm". What caught my attention was the paper's primary objective of creating ... </p> <br/> <br/>
+<p align="left">
+
+<a href="https://arnabsen.dev//resume" title="resume"><strong>resume</strong></a>
+<div><strong>22 Oct 2023</strong> | <strong>Updated: 22 Oct 2023</strong></div>
+<br/> Looks like I forgot to update my path somewhere, anyways please redirect to https://resume.arnabsen.dev
+
+Can you please also leave a comment as to where you found this link "arnabsen.dev/resume" instead of "resume.arnabsen.dev" </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
