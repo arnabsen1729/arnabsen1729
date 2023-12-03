@@ -36,6 +36,29 @@ I have been recently diving into the world of Distributed systems and I came acr
 <div><strong>13 Nov 2023</strong></div>
 <br/> Background
 As software developers, our daily routine revolves around crafting programs in familiar languages such as JavaScript, C++, Python, Rust, Java, and more. We immerse ourselves in mastering the syntax of these languages and then put the keywo... </p> <br/> <br/>
+<p align="left">
+<a href="https://arnabsen.dev//understanding-mapreduce" title="Understanding MapReduce"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700986739771/03687b9c-8ec8-45c0-9bfd-05b45fd9d2e5.png" alt="Understanding MapReduce" width="250px" align="left" /></a>
+<a href="https://arnabsen.dev//understanding-mapreduce" title="Understanding MapReduce"><strong>Understanding MapReduce</strong></a>
+<div><strong>30 Sept 2023</strong> | <strong>Updated: 26 Nov 2023</strong></div>
+<br/> MapReduce is a programming paradigm that helps us perform large-scale computation across computing clusters.
+
+DISCLAIMER: In this blog, I will take a very simple overview of this topic. If this blog actually spikes your interest and you want to delve... </p> <br/> <br/>
+<p align="left">
+<a href="https://arnabsen.dev//my-university-experience" title="My university experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700986712386/f4abdf4e-7067-4b4c-a1cd-cbf7e4165b84.png" alt="My university experience" width="250px" align="left" /></a>
+<a href="https://arnabsen.dev//my-university-experience" title="My university experience"><strong>My university experience</strong></a>
+<div><strong>21 Aug 2023</strong> | <strong>Updated: 26 Nov 2023</strong></div>
+<br/> Intro
+
+Heads up: I initially wrote this blog at the end of my 3rd year, now that I have successfully graduated I figured why not take a stroll down memory lane and spill the beans on my last year too. Unlike my usual techy blogs, this one's more like... </p> <br/> <br/>
+<p align="left">
+<a href="https://arnabsen.dev//xros-fellowship" title="My XROS Fellowship Experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700988047509/9b3457f4-883f-445d-8a1a-e39f29957ae7.png" alt="My XROS Fellowship Experience" width="250px" align="left" /></a>
+<a href="https://arnabsen.dev//xros-fellowship" title="My XROS Fellowship Experience"><strong>My XROS Fellowship Experience</strong></a>
+<div><strong>20 Aug 2023</strong> | <strong>Updated: 26 Nov 2023</strong></div>
+<br/> What does XROS even stand for? It stands for "XR Open Source".
+Ok, but what is XR? XR refers to Extended Reality.
+Umm, and what's that?....
+Understanding "Extended Reality"
+Extended Reality (XR) is a term that encompasses the entire spectrum of compu... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
