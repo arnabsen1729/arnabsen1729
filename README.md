@@ -24,41 +24,26 @@ To know more about me, visit [arnabsen.dev/about](https://arnabsen.dev/about).
 ## My Blogs
 
 <!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://arnabsen.dev//raft-algorithm" title="Row, Row, Raft Your Nodes: A Guide to Consensus in Distributed Systems"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697996382544/3c32ce45-c344-46c2-9933-16bd309e00f5.jpeg" alt="Row, Row, Raft Your Nodes: A Guide to Consensus in Distributed Systems" width="250px" align="left" /></a>
-<a href="https://arnabsen.dev//raft-algorithm" title="Row, Row, Raft Your Nodes: A Guide to Consensus in Distributed Systems"><strong>Row, Row, Raft Your Nodes: A Guide to Consensus in Distributed Systems</strong></a>
-<div><strong>22 Oct 2023</strong> | <strong>Updated: 22 Oct 2023</strong></div>
-<br/> Introduction
-I have been recently diving into the world of Distributed systems and I came across a rather interesting paper: "In Search of an Understandable Consensus Algorithm". What caught my attention was the paper's primary objective of creating ... </p> <br/> <br/>
-<p align="left">
-<a href="https://arnabsen.dev//exploring-oisc" title="One Instruction to Rule Them All: Exploring OISC"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1699845930166/9b0c021c-814c-415b-bc88-c432b303e589.png" alt="One Instruction to Rule Them All: Exploring OISC" width="250px" align="left" /></a>
-<a href="https://arnabsen.dev//exploring-oisc" title="One Instruction to Rule Them All: Exploring OISC"><strong>One Instruction to Rule Them All: Exploring OISC</strong></a>
-<div><strong>13 Nov 2023</strong></div>
-<br/> Background
-As software developers, our daily routine revolves around crafting programs in familiar languages such as JavaScript, C++, Python, Rust, Java, and more. We immerse ourselves in mastering the syntax of these languages and then put the keywo... </p> <br/> <br/>
-<p align="left">
-<a href="https://arnabsen.dev//understanding-mapreduce" title="Understanding MapReduce"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700986739771/03687b9c-8ec8-45c0-9bfd-05b45fd9d2e5.png" alt="Understanding MapReduce" width="250px" align="left" /></a>
-<a href="https://arnabsen.dev//understanding-mapreduce" title="Understanding MapReduce"><strong>Understanding MapReduce</strong></a>
-<div><strong>30 Sept 2023</strong> | <strong>Updated: 26 Nov 2023</strong></div>
-<br/> MapReduce is a programming paradigm that helps us perform large-scale computation across computing clusters.
-
-DISCLAIMER: In this blog, I will take a very simple overview of this topic. If this blog actually spikes your interest and you want to delve... </p> <br/> <br/>
-<p align="left">
-<a href="https://arnabsen.dev//my-university-experience" title="My university experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700986712386/f4abdf4e-7067-4b4c-a1cd-cbf7e4165b84.png" alt="My university experience" width="250px" align="left" /></a>
-<a href="https://arnabsen.dev//my-university-experience" title="My university experience"><strong>My university experience</strong></a>
-<div><strong>21 Aug 2023</strong> | <strong>Updated: 26 Nov 2023</strong></div>
-<br/> Intro
-
-Heads up: I initially wrote this blog at the end of my 3rd year, now that I have successfully graduated I figured why not take a stroll down memory lane and spill the beans on my last year too. Unlike my usual techy blogs, this one's more like... </p> <br/> <br/>
-<p align="left">
-<a href="https://arnabsen.dev//xros-fellowship" title="My XROS Fellowship Experience"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700988047509/9b3457f4-883f-445d-8a1a-e39f29957ae7.png" alt="My XROS Fellowship Experience" width="250px" align="left" /></a>
-<a href="https://arnabsen.dev//xros-fellowship" title="My XROS Fellowship Experience"><strong>My XROS Fellowship Experience</strong></a>
-<div><strong>20 Aug 2023</strong> | <strong>Updated: 26 Nov 2023</strong></div>
-<br/> What does XROS even stand for? It stands for "XR Open Source".
-Ok, but what is XR? XR refers to Extended Reality.
-Umm, and what's that?....
-Understanding "Extended Reality"
-Extended Reality (XR) is a term that encompasses the entire spectrum of compu... </p> <br/> <br/>
+<p>
+<a href="https://arnabsen.dev/lz-compression-algorithm" title="Leaping into Lempel-Ziv Compression Schemes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1713109505626/d230dbf9-1470-4869-b098-4baadca22b75.png" alt="Leaping into Lempel-Ziv Compression Schemes" width="150px" align="left" /></a>
+<a href="https://arnabsen.dev/lz-compression-algorithm" title="Leaping into Lempel-Ziv Compression Schemes"><strong>Leaping into Lempel-Ziv Compression Schemes</strong></a>
+<br><strong>14 Apr 2024</strong></p><br>
+<p>
+<a href="https://arnabsen.dev/compression-conundrum" title="The Compression Conundrum"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1711291036781/312f413a-3c58-4d04-8cc9-85e874488a9d.png" alt="The Compression Conundrum" width="150px" align="left" /></a>
+<a href="https://arnabsen.dev/compression-conundrum" title="The Compression Conundrum"><strong>The Compression Conundrum</strong></a>
+<br><strong>24 Mar 2024</strong></p><br>
+<p>
+<a href="https://arnabsen.dev/exploring-oisc" title="One Instruction to Rule Them All: Exploring OISC"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1699845930166/9b0c021c-814c-415b-bc88-c432b303e589.png" alt="One Instruction to Rule Them All: Exploring OISC" width="150px" align="left" /></a>
+<a href="https://arnabsen.dev/exploring-oisc" title="One Instruction to Rule Them All: Exploring OISC"><strong>One Instruction to Rule Them All: Exploring OISC</strong></a>
+<br><strong>13 Nov 2023</strong></p><br>
+<p>
+<a href="https://arnabsen.dev/raft-algorithm" title="Row, Row, Raft Your Nodes: A Guide to Consensus in Distributed Systems"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1697996382544/3c32ce45-c344-46c2-9933-16bd309e00f5.jpeg" alt="Row, Row, Raft Your Nodes: A Guide to Consensus in Distributed Systems" width="150px" align="left" /></a>
+<a href="https://arnabsen.dev/raft-algorithm" title="Row, Row, Raft Your Nodes: A Guide to Consensus in Distributed Systems"><strong>Row, Row, Raft Your Nodes: A Guide to Consensus in Distributed Systems</strong></a>
+<br><strong>22 Oct 2023</strong></p><br>
+<p>
+<a href="https://arnabsen.dev/understanding-mapreduce" title="Understanding MapReduce"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1700986739771/03687b9c-8ec8-45c0-9bfd-05b45fd9d2e5.png" alt="Understanding MapReduce" width="150px" align="left" /></a>
+<a href="https://arnabsen.dev/understanding-mapreduce" title="Understanding MapReduce"><strong>Understanding MapReduce</strong></a>
+<br><strong>30 Sept 2023</strong></p><br>
 <!-- HASHNODE_BLOG:END -->
 
 
